@@ -1,0 +1,4 @@
+sqlite3 youtube_api_test.sqlite3
+create table personal(id,name)
+.tables
+
